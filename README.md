@@ -1,7 +1,7 @@
 ![Banner](Banner.png)
 
 <h3 align="center">
-  Hi there, I'm Jules 👋
+  Hi there, <a href="https://www.linkedin.com/in/jules-bruzeau/" target="_blank" rel="noreferrer">I'm Jules</a> 👋
 </h3>
 
 <h2 align="center">
