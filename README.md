@@ -38,3 +38,8 @@
   - React
   - Symfony
   - Design Pattern
+
+## 📈 GitHub Stats
+
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=JulesEfrei)](https://github.com/JulesEfrei)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JulesEfrei&layout=compact)](https://github.com/JulesEfrei)
