@@ -36,10 +36,12 @@
   - Finishing Personal Projets
   - Stay focus about Course Projects
   - My algorithm skills
+  - Make code snippets on many language
 
 ## 🌱 I’m currently learning
 
   - React
+  - React Native
   - Symfony
   - Design Pattern
 
