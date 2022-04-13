@@ -42,6 +42,7 @@
 
   - React
   - React Native
+  - Basic of FireBase
   - Symfony
   - Design Pattern
 
