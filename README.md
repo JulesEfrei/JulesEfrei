@@ -34,18 +34,14 @@
 
 ## 🔭 I’m currently working on
 
-  - Finishing Personal Projets
-  - Stay focus about Course Projects
+  - Finishing Personal Projet
   - My algorithm skills
-  - Make code snippets on many language
 
 ## 🌱 I’m currently learning
 
-  - React
-  - React Native
-  - Basic of FireBase
-  - Symfony
-  - Design Pattern
+  - Electron
+  - Ethical Hacking
+  - Three.js
 
 ## 📈 GitHub Stats
 
